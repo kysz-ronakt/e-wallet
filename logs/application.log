@@ -1,0 +1,194 @@
+2023-07-16 13:25:44.365 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 14593 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 13:25:44.368 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 13:25:46.007 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 13:25:46.008 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 13:25:46.114 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 13:25:46.289 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 13:25:46.641 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@539c4830
+2023-07-16 13:25:46.643 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 13:25:46.691 [main] INFO  o.f.c.i.s.JdbcTableSchemaHistory - Schema history table "public"."flyway_schema_history" does not exist yet
+2023-07-16 13:25:46.695 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 0 migrations (execution time 00:00.011s)
+2023-07-16 13:25:46.696 [main] WARN  o.f.core.internal.command.DbValidate - No migrations found. Are your locations set up correctly?
+2023-07-16 13:25:46.711 [main] INFO  o.f.c.i.s.JdbcTableSchemaHistory - Creating Schema History table "public"."flyway_schema_history" ...
+2023-07-16 13:25:46.815 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "public": << Empty Schema >>
+2023-07-16 13:25:46.816 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "public" is up to date. No migration necessary.
+2023-07-16 13:25:49.909 [main] INFO  com.wallet.EWalletApplication - Started EWalletApplication in 6.058 seconds (process running for 6.593)
+2023-07-16 13:29:21.273 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 13:29:21.335 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-16 13:29:23.231 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 14850 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 13:29:23.234 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 13:29:24.791 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 13:29:24.792 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 13:29:24.877 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 13:29:25.011 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 13:29:25.311 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6b867ee7
+2023-07-16 13:29:25.313 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 13:29:25.357 [main] INFO  o.f.c.i.s.JdbcTableSchemaHistory - Schema history table "public"."flyway_schema_history" does not exist yet
+2023-07-16 13:29:25.360 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 0 migrations (execution time 00:00.008s)
+2023-07-16 13:29:25.360 [main] WARN  o.f.core.internal.command.DbValidate - No migrations found. Are your locations set up correctly?
+2023-07-16 13:29:25.376 [main] INFO  o.f.c.i.s.JdbcTableSchemaHistory - Creating Schema History table "public"."flyway_schema_history" ...
+2023-07-16 13:29:25.477 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "public": << Empty Schema >>
+2023-07-16 13:29:25.479 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "public" is up to date. No migration necessary.
+2023-07-16 13:29:28.799 [main] INFO  com.wallet.EWalletApplication - Started EWalletApplication in 6.107 seconds (process running for 6.513)
+2023-07-16 14:16:53.135 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 14:16:53.168 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-16 14:16:55.498 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 15716 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 14:16:55.501 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 14:16:57.242 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 14:16:57.242 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 14:16:57.338 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 14:16:57.477 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 14:16:57.792 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3c18942
+2023-07-16 14:16:57.793 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 14:16:57.833 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 0 migrations (execution time 00:00.009s)
+2023-07-16 14:16:57.833 [main] WARN  o.f.core.internal.command.DbValidate - No migrations found. Are your locations set up correctly?
+2023-07-16 14:16:57.897 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "public": << Empty Schema >>
+2023-07-16 14:16:57.900 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "public" is up to date. No migration necessary.
+2023-07-16 14:17:01.438 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'walletRepository' defined in com.wallet.repository.WalletRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Could not create query for public abstract boolean com.wallet.repository.WalletRepository.existsByIbanIgnoreCase(java.lang.String); Reason: Failed to create query for method public abstract boolean com.wallet.repository.WalletRepository.existsByIbanIgnoreCase(java.lang.String); No property 'iban' found for type 'Wallet'
+2023-07-16 14:17:01.442 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 14:17:01.461 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-16 14:17:01.463 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-07-16 14:17:01.494 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'walletRepository' defined in com.wallet.repository.WalletRepository defined in @EnableJpaRepositories declared on JpaRepositoriesRegistrar.EnableJpaRepositoriesConfiguration: Could not create query for public abstract boolean com.wallet.repository.WalletRepository.existsByIbanIgnoreCase(java.lang.String); Reason: Failed to create query for method public abstract boolean com.wallet.repository.WalletRepository.existsByIbanIgnoreCase(java.lang.String); No property 'iban' found for type 'Wallet'
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1770)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:967)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:941)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.wallet.EWalletApplication.main(EWalletApplication.java:10)
+Caused by: org.springframework.data.repository.query.QueryCreationException: Could not create query for public abstract boolean com.wallet.repository.WalletRepository.existsByIbanIgnoreCase(java.lang.String); Reason: Failed to create query for method public abstract boolean com.wallet.repository.WalletRepository.existsByIbanIgnoreCase(java.lang.String); No property 'iban' found for type 'Wallet'
+	at org.springframework.data.repository.query.QueryCreationException.create(QueryCreationException.java:101)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.lookupQuery(QueryExecutorMethodInterceptor.java:115)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.mapMethodsToQuery(QueryExecutorMethodInterceptor.java:99)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.lambda$new$0(QueryExecutorMethodInterceptor.java:88)
+	at java.base/java.util.Optional.map(Optional.java:260)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.<init>(QueryExecutorMethodInterceptor.java:88)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport.getRepository(RepositoryFactorySupport.java:357)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.lambda$afterPropertiesSet$5(RepositoryFactoryBeanSupport.java:279)
+	at org.springframework.data.util.Lazy.getNullable(Lazy.java:245)
+	at org.springframework.data.util.Lazy.get(Lazy.java:114)
+	at org.springframework.data.repository.core.support.RepositoryFactoryBeanSupport.afterPropertiesSet(RepositoryFactoryBeanSupport.java:285)
+	at org.springframework.data.jpa.repository.support.JpaRepositoryFactoryBean.afterPropertiesSet(JpaRepositoryFactoryBean.java:132)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1816)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1766)
+	... 16 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Failed to create query for method public abstract boolean com.wallet.repository.WalletRepository.existsByIbanIgnoreCase(java.lang.String); No property 'iban' found for type 'Wallet'
+	at org.springframework.data.jpa.repository.query.PartTreeJpaQuery.<init>(PartTreeJpaQuery.java:107)
+	at org.springframework.data.jpa.repository.query.JpaQueryLookupStrategy$CreateQueryLookupStrategy.resolveQuery(JpaQueryLookupStrategy.java:124)
+	at org.springframework.data.jpa.repository.query.JpaQueryLookupStrategy$CreateIfNotFoundQueryLookupStrategy.resolveQuery(JpaQueryLookupStrategy.java:258)
+	at org.springframework.data.jpa.repository.query.JpaQueryLookupStrategy$AbstractQueryLookupStrategy.resolveQuery(JpaQueryLookupStrategy.java:95)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.lookupQuery(QueryExecutorMethodInterceptor.java:111)
+	... 28 common frames omitted
+Caused by: org.springframework.data.mapping.PropertyReferenceException: No property 'iban' found for type 'Wallet'
+	at org.springframework.data.mapping.PropertyPath.<init>(PropertyPath.java:90)
+	at org.springframework.data.mapping.PropertyPath.create(PropertyPath.java:405)
+	at org.springframework.data.mapping.PropertyPath.create(PropertyPath.java:381)
+	at org.springframework.data.mapping.PropertyPath.lambda$from$0(PropertyPath.java:334)
+	at java.base/java.util.concurrent.ConcurrentMap.computeIfAbsent(ConcurrentMap.java:330)
+	at org.springframework.data.mapping.PropertyPath.from(PropertyPath.java:316)
+	at org.springframework.data.mapping.PropertyPath.from(PropertyPath.java:299)
+	at org.springframework.data.repository.query.parser.Part.<init>(Part.java:81)
+	at org.springframework.data.repository.query.parser.PartTree$OrPart.lambda$new$0(PartTree.java:242)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.springframework.data.repository.query.parser.PartTree$OrPart.<init>(PartTree.java:243)
+	at org.springframework.data.repository.query.parser.PartTree$Predicate.lambda$new$0(PartTree.java:372)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.springframework.data.repository.query.parser.PartTree$Predicate.<init>(PartTree.java:373)
+	at org.springframework.data.repository.query.parser.PartTree.<init>(PartTree.java:96)
+	at org.springframework.data.jpa.repository.query.PartTreeJpaQuery.<init>(PartTreeJpaQuery.java:100)
+	... 32 common frames omitted
+2023-07-16 14:18:53.111 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 15923 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 14:18:53.113 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 14:18:54.749 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 14:18:54.749 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 14:18:54.833 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 14:18:54.974 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 14:18:55.299 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6842c101
+2023-07-16 14:18:55.301 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 14:18:55.356 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 0 migrations (execution time 00:00.013s)
+2023-07-16 14:18:55.357 [main] WARN  o.f.core.internal.command.DbValidate - No migrations found. Are your locations set up correctly?
+2023-07-16 14:18:55.442 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "public": << Empty Schema >>
+2023-07-16 14:18:55.444 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "public" is up to date. No migration necessary.
+2023-07-16 14:18:59.244 [main] INFO  com.wallet.EWalletApplication - Started EWalletApplication in 6.619 seconds (process running for 7.053)
+2023-07-16 14:22:27.193 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 14:22:27.225 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-16 14:22:30.445 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 16512 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 14:22:30.449 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 14:22:32.202 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 14:22:32.202 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 14:22:32.342 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 14:22:32.868 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 14:22:33.163 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@efe49ab
+2023-07-16 14:22:33.166 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 14:22:36.649 [main] INFO  com.wallet.EWalletApplication - Started EWalletApplication in 6.731 seconds (process running for 7.215)
+2023-07-16 14:30:31.846 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 14:30:31.869 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-16 14:30:34.464 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 16895 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 14:30:34.466 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 14:30:36.136 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 14:30:36.136 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 14:30:36.250 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 14:30:36.706 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 14:30:37.004 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@53dba9cd
+2023-07-16 14:30:37.006 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 14:30:40.577 [main] INFO  com.wallet.EWalletApplication - Started EWalletApplication in 6.63 seconds (process running for 6.998)
+2023-07-16 14:32:20.417 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 14:32:20.473 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-16 14:32:22.248 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 17201 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 14:32:22.250 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 14:32:23.931 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 14:32:23.931 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 14:32:24.033 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 14:32:24.546 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 14:32:24.886 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@efe49ab
+2023-07-16 14:32:24.888 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 14:32:28.172 [main] INFO  com.wallet.EWalletApplication - Started EWalletApplication in 6.403 seconds (process running for 6.805)
+2023-07-16 14:36:21.893 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 14:36:21.916 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-16 14:36:23.782 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 17640 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 14:36:23.784 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 14:36:25.396 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 14:36:25.396 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 14:36:25.505 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 14:36:26.017 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 14:36:26.341 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@42cc420b
+2023-07-16 14:36:26.343 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 14:36:29.966 [main] INFO  com.wallet.EWalletApplication - Started EWalletApplication in 6.73 seconds (process running for 7.217)
+2023-07-16 14:39:11.597 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 14:39:11.636 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-07-16 14:39:13.290 [main] INFO  com.wallet.EWalletApplication - Starting EWalletApplication using Java 17.0.7 with PID 18146 (/home/ronak/Ronak/E-wallet/build/classes/java/main started by ronak in /home/ronak/Ronak/E-wallet)
+2023-07-16 14:39:13.294 [main] INFO  com.wallet.EWalletApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 14:39:15.171 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 14:39:15.171 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 14:39:15.267 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 14:39:15.707 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-07-16 14:39:16.067 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@20027c44
+2023-07-16 14:39:16.069 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-07-16 14:39:20.051 [main] INFO  com.wallet.EWalletApplication - Started EWalletApplication in 7.293 seconds (process running for 7.629)
+2023-07-16 14:39:44.667 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-07-16 14:39:44.685 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/wallet
+    username: root
+    password: root
+
+logging:
+  level:
+    org.springframework.security: debug
